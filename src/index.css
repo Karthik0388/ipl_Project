@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background: url("https://www.iplt20.com/assets/images/banner_bg.jpg");
+    font-family: 'Source Sans Pro',sans-serif;
+}
